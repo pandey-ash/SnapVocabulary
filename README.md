@@ -1,9 +1,29 @@
-# SnapVocabulary
-Having trouble remembering huge quantities of words while studying for an admission exam such as the GRE? Snap Vocabulary will take care of you. This software makes extending your vocabulary easier by grouping terms with similar meanings, as well as their pronunciation and usage in a phrase.
+# Snap Vocabulary - Vocabulary Learning App
+Snap Vocabulary is a vocabulary learning app for Android that helps users improve their vocabulary skills. The app was developed using **React Native**, **Redux** and **Spring Boot**.
 
-This program also includes a revision area to help you recall the terms you've just learned for longer.
-The user interface of "Snap Vocabulary" is developed with the **React Native** framework, and the backend is built with the **Spring** framework. 
+With this app, users can differentiate words into easy, medium, and hard sections and revise them at any time. Users can also listen to the pronunciation of words, which can aid in their understanding and retention. The app also features a progress tracker to monitor the user's learning progress. 
 
-The **React Redux library** is used to assure performance optimization.
+### Screenshots
 
-Visit [this](https://play.google.com/store/apps/details?id=com.snap.vocabulary) link to get the app.
+[Screen-shot.pdf](https://github.com/pandey-ash/SnapVocabulary/files/10671922/Screen-shot.pdf)
+
+
+### Features
+
+
+- Easy, medium, and hard sections to categorize words.
+- A revise section to revisit learned words.
+- Pronunciation feature to aid in word comprehension and retention.
+- Progress tracker to monitor learning progress.
+
+
+### Installation
+
+
+1. Clone the repository: `git clone https://github.com/pandey-ash/SnapVocabulary`
+2. Install the dependencies: `npm install`
+3. Start the app: `npm start`
+
+### Installation
+
+Contributions are always welcome! Please fork the repository, make your changes and submit a pull request.
